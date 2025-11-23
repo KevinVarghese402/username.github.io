@@ -1291,9 +1291,9 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 50.50rem;
-			height: 50.50rem;
-			line-height: 5.5rem;
+			width: 20rem;
+			height: 20rem;
+			line-height: 20em;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
 			
@@ -1658,6 +1658,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
