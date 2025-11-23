@@ -1305,7 +1305,7 @@ input, select, textarea {
    	 	height: auto;
 			
 		}
-		#header .games-card img{
+		#header .game-card img{
 		width: 250px;    
     	height: 250px;    
     	object-fit: cover; 
@@ -1672,6 +1672,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
