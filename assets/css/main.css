@@ -1300,7 +1300,7 @@ input, select, textarea {
 			.logo-container img {
 				width: 40rem;
 				height: auto;
-			}
+			
 			
 		}
 
@@ -1663,6 +1663,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
