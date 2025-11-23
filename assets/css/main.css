@@ -1291,9 +1291,9 @@ input, select, textarea {
 			}
 
 		#header .logo {
-		width: 10px;
-    	height: 10px;
-    	border-radius: 100%;
+		width: 35px;
+    	height: 35px;
+    	border-radius: 50%;
     	border: 1px solid #fff;
     	display: flex;
     	justify-content: center;
@@ -1301,7 +1301,7 @@ input, select, textarea {
 		}
 
 		#header .logo-container img {
-    	width: 10px;
+    	width: 100px;
    	 	height: auto;
 			
 		}
@@ -1665,6 +1665,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
