@@ -1305,6 +1305,13 @@ input, select, textarea {
    	 	height: auto;
 			
 		}
+		#header .games-card img{
+		width: 250px;    
+    	height: 250px;    
+    	object-fit: cover; 
+    	border-radius: 10px;
+		}
+	
 
 			}
 
@@ -1665,6 +1672,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
