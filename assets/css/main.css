@@ -1291,16 +1291,17 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 80rem ;
-			height: 80rem ;
-			line-height: 20em;
-			border: solid 1px #ffffff;
-			border-radius: 100%;
+			width: 200px;
+    	height: 200px;
+    	border-radius: 50%;
+    	border: 1px solid #fff;
+    	display: flex;
+    	justify-content: center;
+    	align-items: center;
 
-			.logo-container img {
-				width: 40rem;
-				height: auto;
-			
+		#header .logo-container img {
+    	width: 100px;
+   	 	height: auto;
 			
 		}
 
@@ -1663,6 +1664,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
