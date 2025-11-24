@@ -1688,11 +1688,12 @@ input, select, textarea {
 	}
 
 		.Uniimage-grid img {
-    	width: 150%;
-    	height: 150px;
+    	width: 170%;
+    	height: 170px;
     	object-fit: cover;
     	border-radius: 150px;
 	}
+
 
 
 
