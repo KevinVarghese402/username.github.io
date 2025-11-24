@@ -1688,11 +1688,12 @@ input, select, textarea {
 	}
 
 		.Uniimage-grid img {
-    	width: 100%;         /* Fit inside the grid cell */
+    	width: 100%;        
     	height: 150px;       /* Controls how tall each image is */
     	object-fit: cover;   /* Makes images crop nicely */
     	border-radius: 15px; /* Rounds corners (change if you want circles) */
 }
+
 
 
 
