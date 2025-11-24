@@ -1683,16 +1683,17 @@ input, select, textarea {
 		.Uniimage-grid {
     	display: grid;
     	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    	gap: 15px;
-    	padding: 15px;
+    	gap: 25px;
+    	padding: 25px;
 	}
 
 		.Uniimage-grid img {
-    	width: 150%;
-    	height: 150px;
+    	width: 145%;
+    	height: 145px;
     	object-fit: cover;
     	border-radius: 150px;
 	}
+
 
 
 
