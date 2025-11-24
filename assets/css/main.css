@@ -1680,6 +1680,21 @@ input, select, textarea {
 			opacity: 0;
 		}
 
+		.Uniimage-grid {
+    	display: grid;
+    	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    	gap: 20px;
+    	padding: 20px;
+	}
+
+		.Uniimage-grid img {
+    	width: 100%;
+    	height: 200px;
+    	object-fit: cover;
+    	border-radius: 10px;
+	}
+
+
 
 
 
